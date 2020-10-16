@@ -1,0 +1,4 @@
+Appium
+- Appium is a freely distributed open source mobile application. UI Testing framework.
+- It offers cross-platform application testing (Windows, IOS, Android).
+- Appium is part of Selenium Family (uses Selenium libraries under the hood, extands Selenium webdriver)
